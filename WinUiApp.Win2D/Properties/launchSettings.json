@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUiApp.Win2D (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUiApp.Win2D (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
